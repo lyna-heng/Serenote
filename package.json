@@ -2,6 +2,7 @@
   "name": "serenotewebapp",
   "private": true,
   "type": "module",
+  "homepage": "https://lyna-heng.github.io/Serenote/",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
