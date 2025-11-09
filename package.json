@@ -1,11 +1,11 @@
 {
   "name": "serenotewebapp",
-  "homepage": "https://lyna-heng.github.io/Serenote",
+  "homepage": "https://lyna-heng.github.io/Serenote/",
   "private": true,
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "react-router build",
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
